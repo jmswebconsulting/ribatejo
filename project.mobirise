@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Visita ao Ribatejo",
-    "currentPage": "Torres Novas.html",
+    "currentPage": "Tomar.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2239,7 +2239,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13641.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13643.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3203,10 +3203,10 @@
           },
           "_anchor": "header1-1n",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vista-aria-2000x1103.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1133.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3215,9 +3215,9 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#7e9b9f",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -3760,7 +3760,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/vista-aeria-do-cartaxo-2000x1050.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -3770,9 +3770,9 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#7e9b9f",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -4310,7 +4310,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/ent-2000x1328.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -4320,8 +4320,8 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -5445,8 +5445,8 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lezirias-da-goleg-2000x2666.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/campos-da-goleg-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5455,9 +5455,9 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#7e9b9f",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -6042,10 +6042,10 @@
           },
           "_anchor": "header1-31",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jardim-de-ourm-2000x1125.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/vista-aria-ourm-2000x1402.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6054,9 +6054,9 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#475577",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -7702,10 +7702,10 @@
           },
           "_anchor": "header1-6b",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-2000x1284.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7714,9 +7714,9 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#475577",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
