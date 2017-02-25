@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Visita ao Ribatejo",
-    "currentPage": "Vila Franca de Xira.html",
+    "currentPage": "Entroncamento.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 227,
+    "uniqCompNum": 228,
     "versionPublish": "3.12",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -1521,13 +1521,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2c6888"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#347da3!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3886af"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#90a878",
@@ -2239,7 +2239,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13641.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13648.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4311,7 +4311,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vista-aeria-do-entrocamento-2000x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ent-2000x1328.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7694,21 +7694,18 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8ca35",
-              "font-size": "100px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "color": "#b8ca35"
             },
             ".mbr-section-lead": {
               "color": "#2969b0"
             }
           },
-          "_anchor": "header1-3v",
+          "_anchor": "header1-6b",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-1-2000x1284.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/castelo-dos-templrios-e-convento-de-cristo-2000x1237.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
