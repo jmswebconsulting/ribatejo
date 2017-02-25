@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Visita ao Ribatejo",
-    "currentPage": "Entroncamento.html",
+    "currentPage": "Torres Novas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2239,7 +2239,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13648.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13641.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3206,7 +3206,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/santuario-da-azambuja-2000x1715.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/vista-aria-2000x1103.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3761,7 +3761,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mercado-municipal-do-cartaxo-2000x1588.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/vista-aeria-do-cartaxo-2000x1050.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5365,13 +5365,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2c6888"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#347da3!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3886af"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#90a878",
@@ -5964,13 +5964,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2c6888"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#347da3!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3886af"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#90a878",
@@ -6045,7 +6045,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/castelo-vista-de-perto-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jardim-de-ourm-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7705,7 +7705,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/castelo-dos-templrios-e-convento-de-cristo-2000x1237.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-2000x1284.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8267,7 +8267,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/torres-novas1-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/beira-rio-jardim-2000x980.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
