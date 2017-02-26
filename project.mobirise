@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Visita ao Ribatejo",
-    "currentPage": "Tomar.html",
+    "currentPage": "Almeirim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 228,
+    "uniqCompNum": 251,
     "versionPublish": "3.12",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -2077,13 +2077,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2c6888"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#347da3!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3886af"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#90a878",
@@ -2239,7 +2239,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x13643.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x1364.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2354,7 +2354,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x1364-800x545.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ponte-de-almeirim-2000x1364.jpg",
                 "caption": "ponte de almeirim",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2364,7 +2364,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/projecto-geo-ribatejo-2000x1412-800x564.png",
                 "image": "@PROJECT_PATH@/assets/images/projecto-geo-ribatejo-2000x1412.png",
                 "caption": "projecto geo ribatejo",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "6",
@@ -4306,11 +4306,11 @@
               "color": "#2969b0"
             }
           },
-          "_anchor": "header1-27",
+          "_anchor": "header1-6n",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ent-2000x1328.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -4320,15 +4320,15 @@
               "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br>ENTRONCAMENTO",
+          "title": "<br><br>Entroncamento",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -4760,13 +4760,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2c6888"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#347da3!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3886af"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#90a878",
@@ -7581,568 +7581,6 @@
         }
       ]
     },
-    "Tomar.html": {
-      "settings": {
-        "title": "Tomar",
-        "meta_descr": "Web Page Builder Description",
-        "order": 16
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "16px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#90a878"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#90a878"
-            },
-            ".link, .dropdown-item": {
-              "color": "#90a878",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#90a878",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-3u",
-          "_params": {
-            "bgColor": "#3d8eb9",
-            "fontSize": "0.95",
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#90a878",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/portugal.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#b8ca35"
-            },
-            ".mbr-section-lead": {
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "header1-6b",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#475577",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<br><br>Tomar",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3w",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#7e9b9f",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Cidade de Tomar",
-          "text": "<p>História e pequena descrição desta linda cidade</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "font-size": "19px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content1-3x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#c1c1c1"
-          },
-          "text": "<blockquote>Tomar é uma cidade portuguesa pertencente ao distrito de Santarém, região Centro e sub-região do Médio Tejo. Pertencia ainda à antiga província do Ribatejo. Em 2012 o município tinha 39 682 habitantes, dos quais 15 065 na cidade.</blockquote><div><br></div><div>A cidade tem diversos monumentos históricos, dos quais se destacam o Convento de Cristo, declarado Património Mundial, e a Igreja de São João Batista</div><div>É sede de um município com 351,20 km² de área e 40 677 habitantes (2011),[10][11] subdividido em 11 freguesias.[12] O município é limitado a norte pelo município de Ferreira do Zêzere, a leste por Abrantes, a sul por Vila Nova da Barquinha, a oeste por Torres Novas e a noroeste por Ourém.</div><div><br></div><div>A cidade é atravessada pelo rio Nabão, que é afluente do rio Zêzere, estando incluída na bacia hidrográfica do Tejo, o maior rio da península Ibérica.</div><div><br></div><div>Situa-se numa das zonas mais férteis de Portugal Continental para a produção de azeite, figo ou a vinha por exemplo.</div><div><br></div>O turismo constitui hoje uma actividade de primeira importância, já que o Convento de Cristo, principal Monumento da cidade foi considerado Património Mundial pela UNESCO em 1983.<div><br></div><div>Foi outrora um centro industrial, com fábricas de papel, fiação, derivados de madeira e outras atividades. Comercialmente a cidade acolhe ainda a maior parte dos serviços ligados ao seu passado industrial mas vão surgindo as novas ofertas no nicho turístico, como o artesanato de nova geração, a gastronomia de qualidade e o acompanhamento turístico especializado. A terra é relativamente fértil acolhendo sobretudo a cultura de milho em regadio, o olival e a vinha.</div><div><br></div><br><div>Destaque para a Festa dos tabuleiros</div><div><br></div><div>É uma festa realizada de 4 em 4 anos no princípio do mês de julho. É uma das manifestações mais antigas de Portugal e a sua origem encontra-se nas festas de colheita à deusa Ceres. A sua cristianização pode dever-se à Rainha Santa Isabel, tendo por base a Congregação do Espírito Santo. No Domingo de Pentecostes, juntavam-se ricos e pobres sem distinção, dia em que as línguas de fogo desceram sobre os Apóstolos simbolizando a igualdade de todos perante Deus. Esta festa manteve as suas características até ao século XVII. As mudanças feitas a partir daí permitiram uma maior grandiosidade à Festa. A tradição continua e as suas cerimónias permanecem: o Cortejo das chegadas dos Bois de nome Cortejo do Mordomo, o Cortejo dos Tabuleiros, a sua bênção, a forma do tabuleiro, os vestidos das raparigas que transportam os Tabuleiros e a Pêza ou distribuição do pão e da carne. A principal característica desta festa é o desfile ou procissão onde desfilam inúmeros tabuleiros que representam as dezasseis freguesias do concelho. Percorre as principais ruas da cidade, num percurso de 5 km. As ruas enfeitam-se de colchas pendentes nas janelas, onde se encontram milhares de visitantes e são lançadas pétalas, entusiasticamente, sobre o Cortejo. O tabuleiro deve ter a altura da rapariga que o leva à cabeça, sendo constituído por trinta pães enfiados em cinco ou seis canas que partem de um cesto de vime ou verga e é rematado ao alto por uma coroa encimada pela Pomba do Espírito Santo ou pela Cruz de Cristo. Tabuleiros decorados com flores, pão e espigas de trigo desfilam pelas ruas de Tomar.<br><div><br><div><br></div></div></div>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#2b0680",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "msg-box4-3y",
-          "_params": {
-            "imageSize": "70",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/ats52cJgYHA",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Video da cidade",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/noite-templria-2000x1244-800x497.jpg",
-                "image": "@PROJECT_PATH@/assets/images/noite-templria-2000x1244.jpg",
-                "caption": "Noite Templária",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peges-2000x1263-800x505.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peges-2000x1263.jpg",
-                "caption": "Pegões",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/praa-da-repblica-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/praa-da-repblica-2000x1498.jpg",
-                "caption": "Praça da República",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rua-da-corredoura-2000x1320-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rua-da-corredoura-2000x1320.jpg",
-                "caption": "Rua da Corredoura",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339.jpg",
-                "caption": "Tomar Ponte Velha",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vista-aria-da-cidade-2000x1314-800x525.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vista-aria-da-cidade-2000x1314.jpg",
-                "caption": "vista aéria da cidade",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-2000x1284-800x513.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-2000x1284.jpg",
-                "caption": "vista da cidade e Castelo",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/castelo-dos-templrios-e-convento-de-cristo-2000x1237-800x494.jpg",
-                "image": "@PROJECT_PATH@/assets/images/castelo-dos-templrios-e-convento-de-cristo-2000x1237.jpg",
-                "caption": "Castelo dos Templários e Convento de Cristo",
-                "active": true
-              }
-            ],
-            "spacing": "6",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#c1c1c1",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-3z",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTestimonials5",
-          "_params": {
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1-2.png",
-                    "link": "https://jmswebconsulting.github.io/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2-2.png",
-                    "link": "https://jmswebconsulting.github.io/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/untitled-1.svg",
-                    "link": "https://jmswebconsulting.github.io/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/company-logos-creative-design-vector-1.svg",
-                    "link": "https://jmswebconsulting.github.io/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5-2.png",
-                    "link": "https://jmswebconsulting.github.io/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3-2.png",
-                    "link": "https://jmswebconsulting.github.io/",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              }
-            ],
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying-2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showBullets": true,
-            "visibleSlides": "5",
-            "showArrows": true
-          },
-          "_anchor": "extTestimonials5-5v",
-          "title": "Empresas Amigas deste Projecto",
-          "subtitle": "As Empresas abaixo são os grandes motores da Região"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-41",
-          "_params": {
-            "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-42",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>Tomar - Portugal<br><br>\n<strong>Contacts</strong><br>\nEmail: jmswebconsulting@outlook.com<br><br>Site created by jms web consulting<br><br><a href=\"http://www.jmswebconsulting.eu\" target=\"_blank\">www.jmswebconsulting.eu</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"Artigos para venda.html\" class=\"text-warning\">Artigos para venda</a><a href=\"Artigos para venda.html\"></a><a href=\"Artigos para venda.html\" class=\"text-warning\"></a></li><li><a href=\"Empresas em Destaque.html\" class=\"text-warning\">Empresas em Destaque</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"Produtos da Região.html\" class=\"text-warning\">Produtos da Região</a></li><br></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jmsantos1863@gmail.com",
-            "alerts": {
-              "success": "Obrigado por nos contactar"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-43",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/capture1-2000x1124.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#7c706b",
-            "facebook": true,
-            "twitter": false,
-            "google": false,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
-        }
-      ]
-    },
     "Torres Novas.html": {
       "settings": {
         "title": "Torres Novas",
@@ -10358,6 +9796,552 @@
             "odnoklassniki": false
           },
           "text": "SHARE THIS PAGE!"
+        }
+      ]
+    },
+    "Tomar.html": {
+      "settings": {
+        "title": "Tomar",
+        "meta_descr": "Web Page Builder Description",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#90a878"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#90a878"
+            },
+            ".link, .dropdown-item": {
+              "color": "#90a878",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#307193"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#3985ad!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#3d8eb9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#90a878",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6c",
+          "_params": {
+            "bgColor": "#3d8eb9",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#90a878",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/portugal.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8ca35"
+            },
+            ".mbr-section-lead": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "header1-6d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/tyPmUaJNYPg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#28324e",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<br><br>Tomar",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-size": "19px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc",
+            "showMeta": true
+          },
+          "title": "Cidade de Tomar<br>&nbsp;",
+          "meta": "<b>Breve Descrição da Cidade</b><br><b><br></b><br>Tomar é uma cidade portuguesa pertencente ao distrito de Santarém, região Centro e sub-região do Médio Tejo. Pertencia ainda à antiga província do Ribatejo. Em 2012 o município tinha 39 682 habitantes, dos quais 15 065 na cidade.<br><br>A cidade tem diversos monumentos históricos, dos quais se destacam o Convento de Cristo, declarado Património Mundial, e a Igreja de São João Batista<br>É sede de um município com 351,20 km² de área e 40 677 habitantes (2011) subdividido em 11 freguesias. O município é limitado a norte pelo município de Ferreira do Zêzere, a leste por Abrantes, a sul por Vila Nova da Barquinha, a oeste por Torres Novas e a noroeste por Ourém.<br><br>A cidade é atravessada pelo rio Nabão, que é afluente do rio Zêzere, estando incluída na bacia hidrográfica do Tejo, o maior rio da península Ibérica.<br><br>Situa-se numa das zonas mais férteis de Portugal Continental para a produção de azeite, figo ou a vinha por exemplo.<br><br>O turismo constitui hoje uma actividade de primeira importância, já que o Convento de Cristo, principal Monumento da cidade foi considerado Património Mundial pela UNESCO em 1983.<br><br>Foi outrora um centro industrial, com fábricas de papel, fiação, derivados de madeira e outras atividades. Comercialmente a cidade acolhe ainda a maior parte dos serviços ligados ao seu passado industrial mas vão surgindo as novas ofertas no nicho turístico, como o artesanato de nova geração, a gastronomia de qualidade e o acompanhamento turístico especializado. A terra é relativamente fértil acolhendo sobretudo a cultura de milho em regadio, o olival e a vinha.<br><br><br>Destaque para a Festa dos tabuleiros<br><br>É uma festa realizada de 4 em 4 anos no princípio do mês de julho. É uma das manifestações mais antigas de Portugal e a sua origem encontra-se nas festas de colheita à deusa Ceres. A sua cristianização pode dever-se à Rainha Santa Isabel, tendo por base a Congregação do Espírito Santo. No Domingo de Pentecostes, juntavam-se ricos e pobres sem distinção, dia em que as línguas de fogo desceram sobre os Apóstolos simbolizando a igualdade de todos perante Deus. Esta festa manteve as suas características até ao século XVII. As mudanças feitas a partir daí permitiram uma maior grandiosidade à Festa. A tradição continua e as suas cerimónias permanecem: o Cortejo das chegadas dos Bois de nome Cortejo do Mordomo, o Cortejo dos Tabuleiros, a sua bênção, a forma do tabuleiro, os vestidos das raparigas que transportam os Tabuleiros e a Pêza ou distribuição do pão e da carne. A principal característica desta festa é o desfile ou procissão onde desfilam inúmeros tabuleiros que representam as dezasseis freguesias do concelho. Percorre as principais ruas da cidade, num percurso de 5 km. As ruas enfeitam-se de colchas pendentes nas janelas, onde se encontram milhares de visitantes e são lançadas pétalas, entusiasticamente, sobre o Cortejo. O tabuleiro deve ter a altura da rapariga que o leva à cabeça, sendo constituído por trinta pães enfiados em cinco ou seis canas que partem de um cesto de vime ou verga e é rematado ao alto por uma coroa encimada pela Pomba do Espírito Santo ou pela Cruz de Cristo. Tabuleiros decorados com flores, pão e espigas de trigo desfilam pelas ruas de Tomar.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-6f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<div></div>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box4-6l",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ats52cJgYHA",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Video da cidade",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/noite-templria-2000x1244-800x497.jpg",
+                "image": "@PROJECT_PATH@/assets/images/noite-templria-2000x1244.jpg",
+                "caption": "Noite Templária",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peges-2000x1263-800x505.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peges-2000x1263.jpg",
+                "caption": "Pegões",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/praa-da-repblica-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/praa-da-repblica-2000x1498.jpg",
+                "caption": "Praça da República",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rua-da-corredoura-2000x1320-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rua-da-corredoura-2000x1320.jpg",
+                "caption": "Rua da Corredoura",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tomar-ponte-velha-2000x1339.jpg",
+                "caption": "Tomar Ponte Velha",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vista-aria-da-cidade-2000x1314-800x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vista-aria-da-cidade-2000x1314.jpg",
+                "caption": "vista aéria da cidade",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-2000x1284-800x513.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vista-da-cidade-e-castelo-2000x1284.jpg",
+                "caption": "vista da cidade e Castelo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/castelo-dos-templrios-e-convento-de-cristo-2000x1237-800x494.jpg",
+                "image": "@PROJECT_PATH@/assets/images/castelo-dos-templrios-e-convento-de-cristo-2000x1237.jpg",
+                "caption": "Castelo dos Templários e Convento de Cristo",
+                "active": false
+              }
+            ],
+            "spacing": "6",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#c1c1c1",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-6m",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "link": "https://jmswebconsulting.github.io/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "link": "https://jmswebconsulting.github.io/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/untitled.svg",
+                    "link": "https://jmswebconsulting.github.io/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/company-logos-creative-design-vector.svg",
+                    "link": "https://jmswebconsulting.github.io/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "link": "https://jmswebconsulting.github.io/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://jmswebconsulting.github.io/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              }
+            ],
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cavalo-lusitano-2000x898.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#a38f84",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "4",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-6i",
+          "title": "Empresas Amigas deste Projecto",
+          "subtitle": "As Empresas abaixo são os grandes motores da Região"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#faaf40"
+            }
+          },
+          "_anchor": "contacts4-6j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>Tomar - Portugal<br><br>\n<strong>Contacts</strong><br>\nEmail: jmswebconsulting@outlook.com<br><br>Site created by jms web consulting<br><br><a href=\"http://www.jmswebconsulting.eu\" target=\"_blank\">www.jmswebconsulting.eu</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"Artigos para venda.html\" class=\"text-warning\">Artigos para venda</a><a href=\"Artigos para venda.html\"></a><a href=\"Artigos para venda.html\" class=\"text-warning\"></a></li><li><a href=\"Empresas em Destaque.html\" class=\"text-warning\">Empresas em Destaque</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"Produtos da Região.html\" class=\"text-warning\">Produtos da Região</a></li><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jmsantos1863@gmail.com",
+            "alerts": {
+              "success": "Obrigado por nos contactar"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-6k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/JMS-Web-Consulting-211909042608929/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         }
       ]
     }
