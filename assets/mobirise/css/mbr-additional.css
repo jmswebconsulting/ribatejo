@@ -694,7 +694,7 @@ h6,
 #ext_menu-2 .link,
 #ext_menu-2 .dropdown-item {
   color: #90a878;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-2 .link {
   font-size: 0.95rem;
@@ -1139,19 +1139,19 @@ h6,
 }
 #ext_menu-4y .link[aria-expanded="true"],
 #ext_menu-4y .dropdown-menu {
-  background: #2c6888;
+  background: #307193;
 }
 #ext_menu-4y .nav-dropdown-sm .link:focus,
 #ext_menu-4y .nav-dropdown-sm .link:hover,
 #ext_menu-4y .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-4y .nav-dropdown-sm .dropdown-item:hover {
-  background: #347da3!important;
+  background: #3985ad!important;
 }
 #ext_menu-4y .navbar,
 #ext_menu-4y .nav-dropdown-sm,
 #ext_menu-4y .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-4y .nav-dropdown-sm .dropdown-menu {
-  background: #3886af;
+  background: #3d8eb9;
 }
 #ext_menu-4y .bg-color.transparent .link {
   color: #90a878;
