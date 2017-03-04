@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 251,
+    "uniqCompNum": 254,
     "versionPublish": "3.12",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "visitribatejo",
-        "meta_descr": "<meta name=\"msvalidate.01\" content=\"91EE416353E7D4DA11E1606ED5ECECA6\" />",
+        "title": "visita_ao_ribatejo",
+        "meta_descr": "<meta name=\"msvalidate.01\" content=\"91EE416353E7D4DA11E1606ED5ECECA6\" />\n<meta name=\"robots\" content=\"index, follow\" /> \n<meta property=\"og:url\" content=\"http://www.visitribatejo.eu\">\n<meta name=\"keywords\" content=\"Ribatejo, ferias em Portugal, fotos ribatejo, videos do ribatejo, tomar, entroncamento, cavalo lusitano\" />\n<meta property=\"og:locale\" content=\"pt-PT\"/>\n<meta property=\"og:type\" content=\"website\">\n\n\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -66,8 +66,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#90a878",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -110,9 +110,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -140,7 +140,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -171,7 +171,7 @@
           "title": "<br><br>RIBATEJO A JÓIA DE PORTUGAL",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/maxresdefault-2000x1125.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(40, 50, 78);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"181\"><br><br>RIBATEJO A JÓIA DE PORTUGAL</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"182\"></p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header3-4\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/maxresdefault-2000x1125.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(40, 50, 78);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"12\"><br><br>RIBATEJO A JÓIA DE PORTUGAL</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"13\"></p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header3-4\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n\tcolor: #b8ca35;\n}\n.mbr-section-lead {\n\tcolor: #2969b0;\n}\n",
@@ -610,9 +610,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -640,7 +640,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -1166,9 +1166,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -1196,7 +1196,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -1716,9 +1716,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -1746,7 +1746,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -2266,9 +2266,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -2296,7 +2296,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -2638,8 +2638,8 @@
           "_anchor": "map1-2d",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "Entrocamento\n portugal",
+              "placeId": "ChIJrXoh2H1iGA0R5BNm0z_FjGk",
               "state": "ok",
               "stateDetails": ""
             }
@@ -2764,13 +2764,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2c6888"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#347da3!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3886af"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#90a878",
@@ -2795,9 +2795,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -2825,7 +2825,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -3357,9 +3357,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -3387,7 +3387,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -3828,7 +3828,7 @@
     },
     "Produtos.html": {
       "settings": {
-        "title": "Produtos da Região",
+        "title": "ProdutosdaRegiao",
         "meta_descr": "Web Creator Description",
         "order": 2
       },
@@ -3900,9 +3900,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -3930,7 +3930,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4148,7 +4148,7 @@
     },
     "Artigos.html": {
       "settings": {
-        "title": "Artigos para venda",
+        "title": "Artigosparavenda",
         "meta_descr": "Web Site Builder Description",
         "order": 3
       },
@@ -4220,9 +4220,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -4250,7 +4250,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -4458,7 +4458,7 @@
     },
     "Empresas.html": {
       "settings": {
-        "title": "Empresas em Destaque",
+        "title": "EmpresasemDestaque",
         "meta_descr": "Website Maker Description",
         "order": 4
       },
@@ -4530,9 +4530,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -4560,7 +4560,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -4768,7 +4768,7 @@
     },
     "Alverca.html": {
       "settings": {
-        "title": "Alverca do Ribatejo",
+        "title": "AlvercaRibatejo",
         "meta_descr": "Web Page Builder Description",
         "order": 7
       },
@@ -4840,9 +4840,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -4870,7 +4870,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -5266,7 +5266,7 @@
     },
     "Fatima.html": {
       "settings": {
-        "title": "Fátima",
+        "title": "Fatima",
         "meta_descr": "Web Page Builder Description",
         "order": 11
       },
@@ -5338,9 +5338,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -5368,7 +5368,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -5785,8 +5785,8 @@
           "_anchor": "map1-2n",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "fatima\n portugal",
+              "placeId": "ChIJHXGxfEaDGA0R8AWR5L3rAAU",
               "state": "ok",
               "stateDetails": ""
             }
@@ -5871,7 +5871,7 @@
     },
     "Ourem.html": {
       "settings": {
-        "title": "Ourém",
+        "title": "Ourem",
         "meta_descr": "Web Page Builder Description",
         "order": 13
       },
@@ -5943,9 +5943,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -5973,7 +5973,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -6335,8 +6335,8 @@
           "_anchor": "map1-37",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "ourem\n portugal",
+              "placeId": "ChIJk1PsECSCGA0RUSQmFjtarzk",
               "state": "ok",
               "stateDetails": ""
             }
@@ -6431,7 +6431,7 @@
     },
     "Golega.html": {
       "settings": {
-        "title": "Golegã",
+        "title": "Golega",
         "meta_descr": "Web Page Builder Description",
         "order": 12
       },
@@ -6503,9 +6503,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -6533,7 +6533,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -6944,8 +6944,8 @@
           "_anchor": "map1-2x",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "golega\n portugal",
+              "placeId": "ChIJY_vIkeZhGA0RsX1qqLFWa8Y",
               "state": "ok",
               "stateDetails": ""
             }
@@ -7102,9 +7102,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -7132,7 +7132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -7585,7 +7585,7 @@
     },
     "Rio.html": {
       "settings": {
-        "title": "Rio Maior",
+        "title": "RioMaior",
         "meta_descr": "Web Page Builder Description",
         "order": 15
       },
@@ -7657,9 +7657,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -7687,7 +7687,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -8044,8 +8044,8 @@
           "_anchor": "map1-3r",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "rio maior\n portugal",
+              "placeId": "ChIJZSOw6MW4GA0RQAKR5L3rAAU",
               "state": "ok",
               "stateDetails": ""
             }
@@ -8130,7 +8130,7 @@
     },
     "Torres.html": {
       "settings": {
-        "title": "Torres Novas",
+        "title": "TorresNovas",
         "meta_descr": "Web Page Builder Description",
         "order": 17
       },
@@ -8202,9 +8202,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -8232,7 +8232,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -8599,8 +8599,8 @@
           "_anchor": "map1-4b",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "torres novas\n portugal",
+              "placeId": "ChIJtzNBOg6GGA0RkDqQ5L3rAAQ",
               "state": "ok",
               "stateDetails": ""
             }
@@ -8685,7 +8685,7 @@
     },
     "Santarem.html": {
       "settings": {
-        "title": "Santarém",
+        "title": "Santarem",
         "meta_descr": "Web Page Builder Description",
         "order": 18
       },
@@ -8757,9 +8757,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -8787,7 +8787,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -9235,7 +9235,7 @@
     },
     "Vila_Franca.html": {
       "settings": {
-        "title": "Vila Franca de Xira",
+        "title": "VilaFrancaXira",
         "meta_descr": "Web Page Builder Description",
         "order": 19
       },
@@ -9307,9 +9307,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -9337,7 +9337,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -9704,8 +9704,8 @@
           "_anchor": "map1-4v",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "vila franca xira\n portugal",
+              "placeId": "ChIJ7bwRY6UlGQ0RUDeQ5L3rAAQ",
               "state": "ok",
               "stateDetails": ""
             }
@@ -9790,7 +9790,7 @@
     },
     "Povoa.html": {
       "settings": {
-        "title": "Povoa Santa Iria ",
+        "title": "PovoaSantaIria ",
         "meta_descr": "Web Page Builder Description",
         "order": 14
       },
@@ -9862,9 +9862,9 @@
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
             },
             "fontColor": "#90a878",
             "fontHoverColor": "@primaryColor",
@@ -9892,7 +9892,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"fa fa-sun-o mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>&nbsp;Visita ao Ribatejo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"Eventos.html\">Eventos</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">História</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Cidades</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Abrantes.html\">Abrantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Almeirim.html\">Almeirim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alverca do Ribatejo.html\">Alverca do Ribatejo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Azambuja.html\">Azambuja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cartaxo.html\">Cartaxo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entroncamento.html\" aria-expanded=\"false\">Entroncamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Fátima.html\">Fátima</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Golegã.html\">Golegã</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ourém.html\">Ourém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Póvoa de Santa Iria.html\">Póvoa de Santa Iria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Rio Maior.html\">Rio Maior</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tomar.html\">Tomar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Torres Novas.html\">Torres Novas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Santarém.html\">Santarém</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vila Franca de Xira.html\">Vila Franca de Xira</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Artigos para venda.html\">Artigos para venda</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Produtos da Região.html\">Produtos da Região</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Empresas em Destaque.html\">Empresas em Destaque</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Eventos.html\">Eventos</a></li>"
         },
         {
           "_tags": [
@@ -10254,8 +10254,8 @@
           "_anchor": "map1-3h",
           "_params": {
             "googleMap": {
-              "address": "santarem\n portugal",
-              "placeId": "ChIJw7IlYcvsGA0RYDqQ5L3rAAQ",
+              "address": "povoa de santa iria\n portugal",
+              "placeId": "ChIJD0CD0OYuGQ0RdvPq1M8a6Us",
               "state": "ok",
               "stateDetails": ""
             }
@@ -10340,6 +10340,47 @@
             "odnoklassniki": false
           },
           "text": "SHARE THIS PAGE!"
+        }
+      ]
+    },
+    "404.html": {
+      "settings": {
+        "title": "404 ERROR",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/404-2000x999.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">PAGINA INICIAL</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider3-71",
+          "articleLayout": false
         }
       ]
     }
